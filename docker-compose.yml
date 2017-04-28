@@ -1,5 +1,5 @@
 application:
-  image:apache-redirect
+  image: apache-redirect
   ports:
     - 80:80
     - 443:443
